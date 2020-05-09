@@ -1,0 +1,403 @@
+,asset_tag,make,model,dev_type,purchase_date,serial_number,mac_addr,status,usage
+0,197fae,Apple,iPad Mini,tablet,2019-06-28,69452756-c217-4def-b4c3-0382a195b5d9,81:d9:0e:bc:f1:65,unassigned,noone
+1,d17f4f,Apple,iPad,tablet,2019-04-23,0f34dcf4-9e75-4d34-ac38-05b870d0821e,78:e8:58:20:60:97,unassigned,noone
+2,87730a,Apple,iPad Mini,tablet,2017-04-27,fb56bd59-dd56-474d-b3b4-a26635c40ab3,15:eb:84:db:ca:0f,unassigned,noone
+3,125893,Apple,iPad Mini,tablet,2018-02-17,34b39f7d-7d4d-4233-b1ee-993ceff722d7,9e:67:4f:cf:b4:50,unassigned,noone
+4,17e30b,Apple,iPad,tablet,2019-01-05,0312cf15-8c71-4c59-b7f3-557a2d02eccc,16:bc:5b:2e:8c:ef,unassigned,noone
+5,15ded0,Apple,iPad,tablet,2019-12-29,3ee644df-e8b3-441c-b7e8-f2dbc48b0c0d,a4:b5:b8:08:82:96,unassigned,noone
+6,70e107,Apple,iPad Mini,tablet,2018-04-09,ad72d1fb-5990-49fc-bb41-af53e3c744ab,4f:d1:f2:90:11:15,unassigned,noone
+7,fb1f3b,Apple,iPad Mini,tablet,2017-12-07,60ccd31e-49d5-4e80-95ec-06da93cbacd9,d6:45:f0:03:48:16,unassigned,noone
+8,947eac,Apple,iPad,tablet,2017-08-07,4b42c8a9-98c0-4007-9ef7-831fd100fa32,58:60:e8:83:df:bd,unassigned,noone
+9,6ac592,Apple,iPad,tablet,2018-11-28,dbbbb6f8-72fe-4741-9b17-2e6e8a5cebc3,8d:bf:9a:26:8d:62,unassigned,noone
+10,2d025a,Apple,iPad Mini,tablet,2018-06-10,b59581c0-a453-4636-9afc-6a22c4980158,60:44:cb:fd:15:a9,unassigned,noone
+11,62f648,Apple,iPad Mini,tablet,2017-12-31,cc14cb45-09f5-4dd0-bf8c-76c0be47409c,fa:8f:90:3f:fe:dd,unassigned,noone
+12,03f718,Apple,iPad Mini,tablet,2018-11-29,dbb56af8-8dfc-48ee-9f3e-72bedbb7fdda,2d:ad:15:4a:5f:f9,unassigned,noone
+13,24ccf6,Apple,iPad Mini,tablet,2017-04-30,e3922b24-f682-4678-b58e-7020a7cfbab5,ec:af:f1:1f:68:2f,unassigned,noone
+14,108e03,Apple,iPad,tablet,2018-09-09,f0302333-daa3-455a-916f-f7f0da122f93,29:37:1b:b0:a5:d2,unassigned,noone
+15,566f5b,Apple,iPad,tablet,2018-07-14,41747499-8696-4528-8a7a-68ec1ea10e5d,23:ec:7a:5a:a1:ba,unassigned,noone
+16,1a6edd,Apple,iPad,tablet,2017-04-05,1c41f32a-7e83-4efb-8126-3865dd1b1908,f4:77:f8:e9:08:67,unassigned,noone
+17,bc11b2,Apple,iPad Mini,tablet,2017-12-25,0d36b2a0-82b0-4268-94f1-3abd8306a1e8,05:74:3d:07:9c:82,unassigned,noone
+18,33ff01,Apple,iPad Mini,tablet,2019-02-01,7f37ad33-b003-46c5-9042-8e9dee2910ee,1e:73:6b:08:bc:a2,unassigned,noone
+19,e333fd,Apple,iPad Mini,tablet,2017-07-08,091e52b8-c96d-45d5-93df-91b3da6b1be0,1a:cd:d7:de:4e:c3,unassigned,noone
+20,f88e2d,Apple,iPad Mini,tablet,2019-12-30,061f2e07-e44a-4296-970e-8893aee7a298,ba:c9:7e:11:ac:dd,unassigned,noone
+21,4bbcc6,Apple,iPad,tablet,2019-04-30,ac33d6b4-beb4-4926-97a4-bce741bf5b52,ac:2d:da:cc:39:aa,unassigned,noone
+22,19f28a,Apple,iPad,tablet,2019-03-03,a840f3ca-9626-4263-9f71-73e0562e0e18,5c:53:db:62:1d:23,unassigned,noone
+23,171ea3,Apple,iPad Mini,tablet,2019-07-16,b17a9d08-32b8-4835-a79a-3d65b9c6ac45,e4:ad:59:ef:a2:b3,unassigned,noone
+24,50c911,Apple,iPad Mini,tablet,2019-04-27,82f5e650-1fa6-4f84-a50a-ae55786d835b,66:99:93:a7:f3:f8,unassigned,noone
+25,fad21f,Apple,iPad,tablet,2020-01-17,897c01e8-24bb-417a-90d3-35a7675fe64e,ed:0f:30:b1:f4:f5,unassigned,noone
+26,c53f16,Apple,iPad,tablet,2019-09-09,1186ab6f-70d6-45cc-b0de-7fedb7eaf91c,61:21:83:aa:c5:a5,unassigned,noone
+27,6290ce,Apple,iPad,tablet,2018-09-29,9e127de9-41c8-4726-8bee-91ff513837a8,ce:7e:a5:e9:b3:c1,unassigned,noone
+28,550fc9,Apple,iPad Mini,tablet,2019-08-01,2c2e440c-6e9a-4d9e-9311-d22342a7728c,f6:84:ca:df:dd:6c,unassigned,noone
+29,6ee424,Apple,iPad,tablet,2018-10-17,08b4b42b-22bc-4668-9518-4a7bfb7fe7e5,75:9f:b8:6d:92:3f,unassigned,noone
+30,5a6395,Apple,iPad,tablet,2018-03-25,217b164e-f8bc-43b6-9556-8adad4706d76,1b:18:c6:d1:a1:7f,unassigned,noone
+31,cf05e0,Apple,iPad Mini,tablet,2017-12-19,26e5d829-63d3-423e-9d45-4fb220cbdd8f,70:f4:d8:f7:30:dd,unassigned,noone
+32,43f6c3,Apple,iPad,tablet,2017-04-23,99a7238f-1476-41fd-a120-f0887ae25189,f4:b0:52:df:47:5f,unassigned,noone
+33,6d0467,Apple,iPad,tablet,2019-02-18,e1f7e5f7-115f-426e-b440-5a132b8dd0bf,a4:c5:aa:f9:ed:4c,unassigned,noone
+34,8b7df0,Apple,iPad,tablet,2018-11-23,c32e778f-5b01-432d-b4d0-d449610c33e7,c3:23:f7:a1:f4:f9,unassigned,noone
+35,b5f1e6,Apple,iPad Mini,tablet,2018-06-09,9a4d9a47-e339-4f7d-9beb-d24349125f7d,ec:c8:0e:48:56:e1,unassigned,noone
+36,3759a9,Apple,iPad Mini,tablet,2018-10-05,0951d905-c2a5-44d8-8fde-de2f604d0ede,63:5a:b5:ab:02:26,unassigned,noone
+37,f23b99,Apple,iPad,tablet,2018-07-30,477787b1-debb-4e83-9ef3-96f49ad7faf5,85:27:5d:ea:a1:56,unassigned,noone
+38,1cc787,Apple,iPad Mini,tablet,2019-12-06,e42475ef-bdc8-4d9f-90d8-5b7b456f96aa,8b:e8:30:45:b5:f1,unassigned,noone
+39,413395,Apple,iPad Mini,tablet,2019-11-23,4a0e6ae9-3a07-4089-adf2-096420ea9e9b,91:4e:c7:b5:8c:06,unassigned,noone
+40,f5b636,Apple,iPad,tablet,2018-03-17,fc868639-f4d6-4f97-b5e9-6c755ee24dcb,6b:8d:ed:19:8e:15,unassigned,noone
+41,8ba72e,Apple,iPad Mini,tablet,2018-10-10,580ddef4-5eb3-43d4-ae42-360e29df05a0,6e:b7:ea:19:3b:f6,unassigned,noone
+42,105c70,Apple,iPad Mini,tablet,2017-04-08,2c522614-fd4d-40f4-993e-130e02332aab,af:ae:4a:a1:3b:50,unassigned,noone
+43,05fcc8,Apple,iPad Mini,tablet,2018-07-10,c0b9cce1-fe3e-4c50-9af3-7920fa3399d9,e2:44:3e:48:89:f2,unassigned,noone
+44,d45948,Apple,iPad Mini,tablet,2019-04-03,3e0d206e-0e61-448d-8565-cefd0b73808e,04:c5:8e:51:c1:7f,unassigned,noone
+45,848515,Apple,iPad Mini,tablet,2017-07-05,846c6f8a-f41b-4252-877b-9a2f84125710,8f:1b:d3:df:e9:b6,unassigned,noone
+46,c532b8,Apple,iPad,tablet,2017-10-19,29fb863c-ab69-47e1-9338-b30acceb1698,07:44:f7:5b:a8:fc,unassigned,noone
+47,f985b0,Apple,iPad Mini,tablet,2018-02-02,3b28ef65-9360-4767-90e1-25e03df3d5ca,31:04:9d:b1:da:80,unassigned,noone
+48,724afb,Apple,iPad,tablet,2018-12-12,8a2ec3a3-eb62-47b5-bc29-678f93fb9911,5d:5f:00:da:20:82,unassigned,noone
+49,b7f073,Apple,iPad,tablet,2019-12-23,2f5bc06c-3585-4d06-8ca7-aa699f36dc9e,a8:68:3e:fd:1c:70,unassigned,noone
+50,b101a8,Apple,iPad Mini,tablet,2017-08-25,a6902a37-2d4e-4654-8793-e21cfbd86ee8,a0:62:01:33:4d:43,unassigned,noone
+51,fe9a6d,Apple,iPad,tablet,2017-07-28,2df36235-bdd6-4061-8097-4e7d31fe31c1,ac:82:42:fb:f9:47,unassigned,noone
+52,5e0b91,Apple,iPad Mini,tablet,2018-11-04,403dd405-fe6f-4d30-b70e-1d74b11cba90,4c:b4:62:0c:e7:2a,unassigned,noone
+53,a60ea6,Apple,iPad Mini,tablet,2017-09-11,122413a7-750d-4a42-aa8d-fdd314574535,b3:32:64:cf:c7:3e,unassigned,noone
+54,eb4c58,Apple,iPad Mini,tablet,2018-08-16,e5bc61e2-d56e-44e0-8b20-a478f3256f5e,f1:cf:86:85:2c:73,unassigned,noone
+55,0d5e22,Apple,iPad Mini,tablet,2020-01-01,189b29dd-8a57-43f4-a728-34d5372f6ace,ac:0b:33:6d:0a:00,unassigned,noone
+56,d2780a,Apple,iPad Mini,tablet,2017-05-12,dd27a27b-3b54-467f-9faa-2f012bdfd9c2,f8:92:7c:a9:b2:8d,unassigned,noone
+57,5b42de,Apple,iPad Mini,tablet,2019-03-14,4d46f594-840d-4340-aa10-86db123e9786,c7:62:09:35:2a:70,unassigned,noone
+58,6734ae,Apple,iPad Mini,tablet,2018-03-13,46ab2346-a846-4ec8-be6a-136db522e4ed,b7:2f:48:cc:13:d5,unassigned,noone
+59,1c6364,Apple,iPad Mini,tablet,2018-03-21,a5766241-8805-472a-a6f8-bfe46b823c7f,52:da:c3:fa:2b:4d,unassigned,noone
+60,d8f4af,Apple,iPad Mini,tablet,2017-11-07,fe25dfef-9f19-4edb-b30a-1d8eedd9a921,a2:f5:6b:96:11:df,unassigned,noone
+61,74dca0,Apple,iPad Mini,tablet,2019-12-14,50a0fe0d-6769-43fe-a38b-d27ff2f99204,7e:e0:52:eb:4b:c1,unassigned,noone
+62,127548,Apple,iPad,tablet,2019-11-03,94bf737f-3be0-4e3a-a384-cdfa17ee1a21,f8:d1:3d:ed:b9:12,unassigned,noone
+63,f9815f,Apple,iPad Mini,tablet,2017-05-10,561971ca-6cd2-45ea-b338-63fc4394f4f0,47:2d:e4:d6:c7:3c,unassigned,noone
+64,4aa3b6,Apple,iPad,tablet,2017-09-17,a739f4e0-28f0-4b48-9fc8-6db620b35265,a1:9f:ee:60:61:56,unassigned,noone
+65,038713,Apple,iPad Mini,tablet,2018-09-10,bdd953b7-414e-43b6-8986-bd15b016edd9,53:a7:46:af:19:fc,unassigned,noone
+66,0cc455,Apple,iPad,tablet,2017-08-07,3f22198c-8fb5-467a-bdcb-9f7d5de55072,b8:a9:37:ae:ec:68,unassigned,noone
+67,afa3d4,Apple,iPad,tablet,2018-05-27,ea8aa98a-13e8-4b1b-b0f3-4ab83605ed0e,15:c8:a7:98:bf:e6,unassigned,noone
+68,15bbc8,Apple,iPad Mini,tablet,2017-12-27,0807d1b0-3922-4f4f-b228-7d5e2947209c,f5:41:63:d3:e1:10,unassigned,noone
+69,36669d,Apple,iPad,tablet,2017-06-13,e7e2e32c-c4f7-43ad-a6e0-0da31aec3ae9,89:3f:04:01:4e:e4,unassigned,noone
+70,37b547,Apple,iPad,tablet,2017-11-28,9cda8538-5925-48db-a427-b7fbea2af95d,80:31:09:01:92:bb,unassigned,noone
+71,6026b3,Apple,iPad Mini,tablet,2018-09-08,8d54984c-d0bd-4130-960c-fe78d5bc27b0,35:8f:8a:be:cc:f2,unassigned,noone
+72,0f565e,Apple,iPad Mini,tablet,2018-09-13,665029f0-db47-4d78-a429-99d2a85b4adf,bb:30:d7:b8:4c:ac,unassigned,noone
+73,2fc042,Apple,iPad,tablet,2019-07-03,2d1132a9-8b29-4d98-93cd-1079058694b5,39:03:9c:8a:ce:2e,unassigned,noone
+74,0d94fb,Apple,iPad Mini,tablet,2019-04-30,9c18317b-0dca-4ca6-87cd-97e7092204cf,ea:48:35:de:4d:6f,unassigned,noone
+75,c7403f,Apple,iPad,tablet,2019-03-17,76e53932-96e9-4bfc-aa03-242200d47953,e1:66:9f:74:1d:73,unassigned,noone
+76,c6b02e,Apple,iPad,tablet,2018-09-28,952af65c-3174-4b21-9782-2213696e19a5,9a:1c:9e:2a:21:86,unassigned,noone
+77,37b289,Apple,iPad Mini,tablet,2018-09-14,3211488f-581d-447d-9aca-841b4293e811,f9:9a:c6:db:85:9d,unassigned,noone
+78,a624f0,Apple,iPad,tablet,2017-06-23,1ae68845-1f94-4dd5-bfb1-647b349102e1,67:66:f4:74:78:d1,unassigned,noone
+79,070557,Apple,iPad,tablet,2017-09-17,66f18fcf-7fdb-427a-bc03-a2e6a667b55c,0a:a4:20:d1:fa:7e,unassigned,noone
+80,4bed71,Apple,iPad,tablet,2018-10-06,8f010044-9b7f-4462-a9d3-7ec55707e038,35:80:c6:51:b8:d3,unassigned,noone
+81,f3c6b3,Apple,iPad Mini,tablet,2018-10-06,5318f95c-2b0d-4620-9053-ee5b07483c38,10:f7:3a:84:ac:12,unassigned,noone
+82,475af0,Apple,iPad Mini,tablet,2019-07-20,9f038b56-bcc0-4cbf-96ac-7f1300329090,7f:3b:16:cd:47:2d,unassigned,noone
+83,da3a43,Apple,iPad,tablet,2019-02-23,5e02595a-ab9f-4e09-8f11-d108eb27f5ab,c6:d6:15:03:90:0f,unassigned,noone
+84,34ea37,Apple,iPad,tablet,2017-06-01,2c8862b2-54c1-4aeb-95d0-8437a4fdce8e,ab:8b:50:08:9f:1e,unassigned,noone
+85,c6ad74,Apple,iPad Mini,tablet,2020-02-28,a0c216c4-f573-4f2c-baad-11f855e639a8,ae:20:e2:38:38:f1,unassigned,noone
+86,8e1a76,Apple,iPad,tablet,2020-01-20,09e99745-2be6-45ab-a6af-c597e314006e,95:91:d4:8b:45:1d,unassigned,noone
+87,8dcf98,Apple,iPad Mini,tablet,2017-11-22,0d60ae31-c022-4d81-bf7f-8fd476a997a8,a0:6d:eb:46:d4:fd,unassigned,noone
+88,83463c,Apple,iPad,tablet,2018-08-28,b4915ac9-1ae1-45ec-bcab-d0eb8ed8314b,37:2c:df:20:23:5f,unassigned,noone
+89,3c59f6,Apple,iPad,tablet,2017-06-15,44f5334e-298f-4611-92dd-93bc58c24720,b8:25:46:29:15:bc,unassigned,noone
+90,4cb840,Apple,iPad Mini,tablet,2017-06-24,a8d267ae-9525-43e1-a874-bf92833973f3,6c:7d:20:91:b0:44,unassigned,noone
+91,3d9b4c,Apple,iPad,tablet,2019-05-26,888bd8f6-d70e-4cec-a18e-382ff5ecacb5,1b:d7:71:2b:30:29,unassigned,noone
+92,9642da,Apple,iPad,tablet,2017-12-20,b81b897d-6791-4e69-8df8-f6d493a41888,dc:4b:9b:be:b0:c2,unassigned,noone
+93,3f7d8c,Apple,iPad,tablet,2019-06-27,25271bec-739e-4e25-96b2-eaf44f92ad13,34:98:76:e3:86:e6,unassigned,noone
+94,9bdc28,Apple,iPad,tablet,2019-09-01,9f6fa1df-0d99-4b9d-b829-13b9db2237ca,49:18:e0:ab:56:54,unassigned,noone
+95,37d0b6,Apple,iPad Mini,tablet,2017-09-18,43e55022-8fec-42c5-a5fe-4db7eaddbab4,66:aa:1c:4a:41:6f,unassigned,noone
+96,5d9b09,Apple,iPad,tablet,2018-06-27,31523bff-9cda-408e-afc9-0a1ef7e8f20b,bf:c4:7a:5d:c0:65,unassigned,noone
+97,cd4851,Apple,iPad,tablet,2019-05-20,a78c2489-d105-4ebf-8a6e-62c177e5d19f,ff:28:a5:e9:f8:0e,unassigned,noone
+98,3854b0,Apple,iPad Mini,tablet,2018-07-24,813eed08-31a9-4e59-a036-611fd3928e9b,6c:a5:f0:97:e9:f6,unassigned,noone
+99,dba9c9,Apple,iPad Mini,tablet,2018-01-03,160da200-b37a-4db9-bc72-e6c5e9c698bf,c9:82:54:0d:67:ec,unassigned,noone
+100,43f0d7,Apple,iPad,tablet,2017-08-25,34c386d6-83f5-422a-8d69-423ab526c6d4,55:96:8c:38:0a:3a,unassigned,noone
+101,833da7,Apple,iPad Mini,tablet,2017-08-29,84261147-4dad-4a7a-9159-06ce86203aa4,ca:e9:79:06:5d:53,unassigned,noone
+102,47629f,Apple,iPad,tablet,2017-03-18,9dabfe18-6484-4255-b0dc-d9191426faaa,21:e2:e4:9e:03:8d,unassigned,noone
+103,e5f8b1,Apple,iPad,tablet,2017-05-19,19256d4d-e6f2-47ba-a25c-35d4cf4187fb,cd:00:8c:ea:c8:e2,unassigned,noone
+104,271eba,Apple,iPad Mini,tablet,2017-09-04,75b2f33a-e7e7-49c4-ac7c-80f31f9c3143,c5:d9:8b:48:51:e1,unassigned,noone
+105,4b5bce,Apple,iPad,tablet,2018-09-18,2801c1a5-7008-4b8d-abc1-9c19536dc1e6,e0:1b:ff:c9:d9:e1,unassigned,noone
+106,0d1d38,Apple,iPad,tablet,2019-10-21,f2b8e420-b0a8-449d-8bae-07a578bb42af,6c:db:db:13:48:90,unassigned,noone
+107,083cc7,Apple,iPad,tablet,2017-12-13,34f7497e-256d-4c91-bfcf-89691030fb95,e4:ac:99:e3:01:e7,unassigned,noone
+108,668392,Apple,iPad Mini,tablet,2019-10-21,aa1dafdd-322b-468a-a1da-918d45bfa1a6,cd:d0:6c:6c:27:ab,unassigned,noone
+109,e11998,Apple,iPad Mini,tablet,2019-06-10,a4f0c5e9-949f-4211-af4c-70b8c69e04da,e3:78:d2:44:cf:21,unassigned,noone
+110,faf909,Apple,iPad Mini,tablet,2017-10-09,33069b17-72d7-48c1-99e3-a674ab166d67,d6:f5:d8:9e:52:aa,unassigned,noone
+111,fd261a,Apple,iPad Mini,tablet,2019-07-16,e45607ed-100b-4256-a837-9e220a0ed089,62:83:2d:e2:34:be,unassigned,noone
+112,e070ed,Apple,iPad Mini,tablet,2018-11-17,089af130-35e0-411a-82c2-fd240c4cb05e,4b:8b:e0:77:bb:54,unassigned,noone
+113,1dfe4c,Apple,iPad Mini,tablet,2018-11-03,701299b7-7d8e-4937-8e93-f95ad62c6add,41:bc:45:d8:9d:74,unassigned,noone
+114,f897cc,Apple,iPad Mini,tablet,2018-04-06,4581a0bd-9a80-4adc-b4a8-de90f15edc12,0e:cb:2a:bb:69:80,unassigned,noone
+115,47239e,Apple,iPad Mini,tablet,2018-02-22,8075ce20-e4af-4a2c-a55a-dcbf533a83c5,e3:c2:98:f4:de:8e,unassigned,noone
+116,f39fcd,Apple,iPad,tablet,2018-09-22,67d227bf-35c3-429c-a23c-67c60b5c2019,8f:25:da:49:30:59,unassigned,noone
+117,73cbf9,Apple,iPad Mini,tablet,2017-03-14,a0e92476-379f-4879-a2e5-03bd25b8084e,0e:f9:d3:81:dc:cc,unassigned,noone
+118,b4dcf9,Apple,iPad,tablet,2018-02-15,9c0e000b-f5fa-4a7e-94c1-ea3ebf89c4c8,f1:fe:5d:48:e9:bc,unassigned,noone
+119,f2e517,Apple,iPad Mini,tablet,2018-09-08,b11a28f6-5e7a-41e7-ba72-912b358067a7,4e:b0:36:39:b2:05,unassigned,noone
+120,c5970e,Apple,iPad Mini,tablet,2018-02-12,a86762ea-3f02-4465-a07d-a75dc9bc457d,10:5c:e9:e8:a0:ce,unassigned,noone
+121,2a43ef,Apple,iPad Mini,tablet,2019-05-10,a13da693-a42a-44bb-bff0-bd12f17968aa,d3:00:c2:4a:f0:30,unassigned,noone
+122,fd4c44,Apple,iPad,tablet,2019-12-18,48ef7c3e-81e2-40d9-8399-fbf5c5b1e415,86:52:18:3b:9c:c3,unassigned,noone
+123,bc479b,Apple,iPad,tablet,2019-07-06,3ada69b0-189c-46d4-abc3-3336102dd3c8,6c:38:3c:e1:5b:8f,unassigned,noone
+124,be093d,Apple,iPad Mini,tablet,2018-06-08,6b0665dd-4ea5-40d3-90b0-9dfb990d8eb8,74:12:92:06:e6:ef,unassigned,noone
+125,ea114a,Apple,iPad Mini,tablet,2018-02-15,95a11046-ed6f-4ad9-8fd1-bd20f2df7466,5c:21:da:3c:5e:e9,unassigned,noone
+126,c1a698,Apple,iPad Mini,tablet,2018-07-13,7a247243-6354-4509-80d7-d8a0d95c5d6e,65:c0:17:59:b3:37,unassigned,noone
+127,08beba,Apple,iPad Mini,tablet,2018-01-08,22b1e415-fc26-40d4-9ed8-6eedfa74a3c3,70:cb:82:06:16:e2,unassigned,noone
+128,49ecb9,Apple,iPad,tablet,2017-04-16,72ded49f-73ad-4b78-8f61-4969a24c4e7d,c5:d3:77:b2:ab:c2,unassigned,noone
+129,0fd2ff,Apple,iPad,tablet,2019-05-25,34db75b5-a606-4b78-bb68-2ae2efc5aca3,36:64:9f:6e:00:84,unassigned,noone
+130,e0339f,Apple,iPad Mini,tablet,2017-05-19,d6edbf84-55eb-4d0c-bbcb-57cc4bdfde0c,83:6a:82:2a:7d:a9,unassigned,noone
+131,f547eb,Apple,iPad,tablet,2018-11-25,5f5f14ca-e39c-457e-8e51-362457478ddc,88:78:19:3b:7b:66,unassigned,noone
+132,f29f7a,Apple,iPad,tablet,2019-09-01,400a5cbc-f9ba-4fd0-9b3d-56b2dd0f9005,f4:59:2a:14:30:4b,unassigned,noone
+133,4b5efc,Apple,iPad Mini,tablet,2018-10-20,3c0b2cbf-d420-4a23-81cf-4dd8a6272f2e,b9:fe:06:20:aa:50,unassigned,noone
+134,ac7ec3,Apple,iPad,tablet,2019-09-16,92bb3411-3bc6-4796-87ef-86533e053fd7,6b:50:c9:e0:53:37,unassigned,noone
+135,af06af,Apple,iPad,tablet,2020-01-21,9c9db392-f2a5-427a-9eba-410cf7eaad54,ce:47:8b:ce:48:df,unassigned,noone
+136,9296d8,Apple,iPad Mini,tablet,2017-05-28,839ebad2-e3be-425e-ae1d-0009ae9b38f0,ad:6e:ea:4e:a7:5e,unassigned,noone
+137,e069f6,Apple,iPad Mini,tablet,2017-08-21,33489eb6-4337-42e9-9106-ef2de91a3ae3,41:b8:45:09:ff:a8,unassigned,noone
+138,ea3ee3,Apple,iPad Mini,tablet,2018-03-30,11d06dfe-ae1c-4adf-b403-22fada9330f0,fe:0b:2f:48:de:b0,unassigned,noone
+139,d27897,Apple,iPad,tablet,2017-12-11,3c081d78-0bd3-42e2-8b67-b93acbd67a39,05:ed:e4:8a:2a:70,unassigned,noone
+140,896545,Apple,iPad,tablet,2018-09-06,114e11da-181d-407d-82f1-c6cd1367d7ed,6c:e4:92:d6:2c:ca,unassigned,noone
+141,c4d7c6,Apple,iPad,tablet,2018-01-02,24c6739e-8f50-4546-994b-4abd92578dc5,ea:f2:41:f6:4c:30,unassigned,noone
+142,350a2b,Apple,iPad Mini,tablet,2017-09-22,5dd7d79e-cf59-4093-8193-0041d8a7642b,94:d3:c9:28:2c:62,unassigned,noone
+143,999ec7,Apple,iPad,tablet,2019-12-26,2b9886e5-12ca-4d07-aee2-2b431b746392,67:c6:47:a5:4e:4b,unassigned,noone
+144,7395ce,Apple,iPad Mini,tablet,2017-08-14,43b1494c-acdf-40fa-84ed-bf44f12fde42,6f:b9:80:e3:bf:bc,unassigned,noone
+145,ff8dd0,Apple,iPad,tablet,2020-01-05,c5f651db-c593-450c-bc2f-8cdb043979a7,00:32:bc:0d:ac:6b,unassigned,noone
+146,ef5605,Apple,iPad,tablet,2019-11-14,80832f7e-31ee-4f13-902d-5962ea39b707,9b:3c:5f:c7:b0:b1,unassigned,noone
+147,087045,Apple,iPad Mini,tablet,2017-08-09,071df0a7-30bc-4c4d-bae2-36b6ede4d66a,bc:a3:3f:81:96:65,unassigned,noone
+148,1bf5f1,Apple,iPad Mini,tablet,2019-04-26,b830be00-0795-489f-b8af-68e092bfa804,d1:57:23:48:25:21,unassigned,noone
+149,694a35,Apple,iPad,tablet,2017-07-25,827b08dc-1dcc-4308-a326-d3bd3f42dbbf,23:9b:c1:6f:ad:72,unassigned,noone
+150,b63ccf,Apple,iPad,tablet,2018-05-12,c3a1bdf2-939b-4d18-9319-67715de22b33,87:f4:1c:12:d0:6a,unassigned,noone
+151,22675e,Apple,iPad Mini,tablet,2017-10-31,fb84757e-82ba-47e6-9592-31e07b867c0d,57:cf:21:fd:28:d6,unassigned,noone
+152,f68021,Apple,iPad,tablet,2019-12-10,442c5ade-7cff-47ea-b783-3ea4befca1f6,0f:3d:4e:64:fc:f8,unassigned,noone
+153,c81b90,Apple,iPad Mini,tablet,2017-11-01,fedb4f54-99a9-4452-84b4-9718908f69c0,0b:47:3f:7a:78:0e,unassigned,noone
+154,0f4252,Apple,iPad,tablet,2017-08-20,93f885f3-dc6f-42f3-9792-fa6c319b3b53,35:53:f4:d8:c7:60,unassigned,noone
+155,480ade,Apple,iPad Mini,tablet,2018-04-29,b722098e-aa28-4215-b90d-449ed71f0c57,23:33:58:2c:10:0f,unassigned,noone
+156,4f7c40,Apple,iPad Mini,tablet,2017-04-28,9889097a-2d1b-43ec-b198-3ad19f32e9b0,c4:e4:bd:07:39:22,unassigned,noone
+157,62428c,Apple,iPad,tablet,2019-05-01,fe422b86-fbd5-4a05-bafc-9072dc3c838c,b2:ed:ff:fb:75:64,unassigned,noone
+158,a395b0,Apple,iPad Mini,tablet,2018-12-22,fbdca9c6-32de-480d-a9d9-a4e80e536af9,8e:f1:a2:44:cd:d5,unassigned,noone
+159,9bc1d8,Apple,iPad Mini,tablet,2019-03-18,bb6c51bb-7548-4e69-8888-c20e5605c171,f7:6b:57:a7:84:23,unassigned,noone
+160,2c2586,Apple,iPad Mini,tablet,2018-01-24,a8f97b5a-62ea-440b-9b00-3e355c3ba3f3,8b:2d:e8:ce:dd:f8,unassigned,noone
+161,5a0470,Apple,iPad,tablet,2018-03-11,9543e3bb-2ab0-4bed-90b5-d1e57a669ce4,e3:46:ad:2a:8c:38,unassigned,noone
+162,6ee35a,Apple,iPad Mini,tablet,2018-10-10,77daa735-86d0-4cf9-9302-53afa5dc408b,ef:2d:51:14:d0:3e,unassigned,noone
+163,b8fb94,Apple,iPad,tablet,2018-05-24,c18ef84f-216c-45ac-bf01-194e4e6c9081,5a:a0:f0:7e:cd:32,unassigned,noone
+164,111c4c,Apple,iPad,tablet,2018-01-15,405082dc-272f-4c0b-a37d-6191e2bc1d98,01:c7:f1:67:c0:e3,unassigned,noone
+165,e03ee6,Apple,iPad,tablet,2019-06-29,4322c90c-c630-4700-ac5d-3593491af572,85:2d:ec:d3:22:e0,unassigned,noone
+166,d67243,Apple,iPad Mini,tablet,2018-12-23,3ab94c40-5e91-4d6b-b041-f025964fdb6a,61:6a:89:4d:44:b1,unassigned,noone
+167,765438,Apple,iPad Mini,tablet,2017-10-08,1caa9f17-2c67-4ec9-baa0-991e1e326d34,57:6d:5d:21:dc:e0,unassigned,noone
+168,760197,Apple,iPad Mini,tablet,2019-10-05,761550d8-ffcd-41e1-97e1-39bd28f1e835,d0:cc:0a:2e:9e:f0,unassigned,noone
+169,04d137,Apple,iPad,tablet,2020-02-12,239d0197-0573-45e6-9167-6007d97ae4c7,20:e3:94:a3:f9:5b,unassigned,noone
+170,f77e37,Apple,iPad Mini,tablet,2018-05-07,1f07fda8-b69b-4a73-95d2-826ab358bf9f,c8:95:90:42:07:3a,unassigned,noone
+171,1d561f,Apple,iPad Mini,tablet,2020-01-05,15584bb9-462e-429e-bde0-0596697e93bf,bf:33:4e:1b:a8:d5,unassigned,noone
+172,82aa0a,Apple,iPad Mini,tablet,2018-11-07,bed1d50b-13b8-449e-9750-f82dc0559f36,18:ec:84:6c:0b:9c,unassigned,noone
+173,106706,Apple,iPad Mini,tablet,2017-06-25,0e335de1-2c1e-496c-94c7-9c7e078e6784,26:0a:85:12:1d:08,unassigned,noone
+174,5a1b06,Apple,iPad Mini,tablet,2019-04-08,3b91957b-cc3b-471a-975c-f496db687c32,34:4a:1d:79:4a:87,unassigned,noone
+175,56dfb3,Apple,iPad,tablet,2017-08-16,a5d527fe-e71c-4148-9a83-0d297ed7f715,40:ed:56:2e:06:36,unassigned,noone
+176,ea4b67,Apple,iPad Mini,tablet,2019-12-17,6acdf35b-e21d-41a2-9dc0-bc626814eeb2,db:4f:71:e7:d1:58,unassigned,noone
+177,45cfd1,Apple,iPad,tablet,2017-06-10,fd37fbaf-4a13-4609-8bac-357acf1f642f,db:ac:04:79:0f:e5,unassigned,noone
+178,c1e361,Apple,iPad,tablet,2017-04-18,15bbbba0-9eb1-42ee-b112-d31c22aca2b1,9d:d7:ad:00:6c:d5,unassigned,noone
+179,ab78b5,Apple,iPad Mini,tablet,2019-05-10,dbdfdad8-1c6b-4020-b16e-815ef5726be8,d3:50:01:e8:0a:57,unassigned,noone
+180,8bdda6,Apple,iPad Mini,tablet,2019-12-31,4dcc0ed5-63b0-4e21-bf43-2d0b2c6c16f6,e4:d4:40:5d:5c:9b,unassigned,noone
+181,fa2487,Apple,iPad,tablet,2019-04-08,37a4f452-4cba-4667-a967-9b1ed9a93af2,ae:6d:81:83:f9:ff,unassigned,noone
+182,350249,Apple,iPad,tablet,2017-12-11,d5beebba-9f20-4ea7-999b-22e452b6cef3,5e:2a:a2:65:ff:b1,unassigned,noone
+183,938a72,Apple,iPad Mini,tablet,2019-01-18,dc37ad6a-746f-4243-913d-a4aea0b99737,f2:43:84:8b:03:ed,unassigned,noone
+184,bddd72,Apple,iPad Mini,tablet,2018-04-09,c7b009c1-e07a-4d9d-9519-3c22146ff6be,d5:db:b1:5e:a7:c6,unassigned,noone
+185,13ca29,Apple,iPad Mini,tablet,2018-06-14,f496fcee-e9fc-4527-9470-7fae41df8f7d,0b:85:1c:85:a8:17,unassigned,noone
+186,d43118,Apple,iPad,tablet,2017-12-28,947681ed-b1be-488b-bea1-8d4e22e1e4c2,91:24:f8:bc:ed:8c,unassigned,noone
+187,252bf5,Apple,iPad Mini,tablet,2018-12-25,a130e480-97f4-4660-b930-db0d91cd2076,b9:06:1a:a8:26:f3,unassigned,noone
+188,951eeb,Apple,iPad Mini,tablet,2017-06-24,16b337aa-dca4-41e1-baa2-544885328d30,50:57:f9:15:77:73,unassigned,noone
+189,4b2bdc,Apple,iPad,tablet,2018-08-07,0996c410-1bc1-4392-bfec-7a52d3d2d732,85:76:a1:45:b0:b5,unassigned,noone
+190,ac663d,Apple,iPad,tablet,2019-02-26,bf7d77aa-1302-4f7c-af5c-36f54b8cb422,bd:b6:4b:e2:2d:69,unassigned,noone
+191,6f4d90,Apple,iPad,tablet,2019-02-17,29203c88-2835-409b-92c7-014c5b10c17a,6e:1f:51:82:aa:fe,unassigned,noone
+192,3ced42,Apple,iPad Mini,tablet,2017-12-19,85b88438-7eb3-4101-b9e1-7fb8eb163ba3,ba:a9:7b:8e:5b:b6,unassigned,noone
+193,af67c0,Apple,iPad Mini,tablet,2018-01-03,dd52d63a-5f47-493e-9f86-6cc4644f2d01,73:fb:c4:f2:10:48,unassigned,noone
+194,c8cfc8,Apple,iPad,tablet,2017-09-07,9b4380a3-ab05-4c9d-9300-02e10be077ad,bf:d9:65:ce:8f:69,unassigned,noone
+195,36a920,Apple,iPad,tablet,2019-06-19,3d08186b-8847-4e34-be23-9f2254af599b,f8:ac:35:6d:d1:56,unassigned,noone
+196,9ea9e4,Apple,iPad Mini,tablet,2018-05-29,d5f055d6-5cae-4441-a0a0-c18f519d2330,ba:01:1c:85:a7:cf,unassigned,noone
+197,f06d77,Apple,iPad Mini,tablet,2017-07-03,f8f1cb7a-483b-44fc-bb07-a9051d1e86c1,2c:d1:d6:8c:da:12,unassigned,noone
+198,c1956f,Apple,iPad Mini,tablet,2017-08-03,4a992f94-190b-4487-87fd-4d368b92f54b,f2:05:c0:a0:bf:9d,unassigned,noone
+199,b0b3e9,Apple,iPad Mini,tablet,2018-06-28,a0988cf7-7131-4687-9121-817bba08b77d,c0:d5:5e:4c:72:a7,unassigned,noone
+200,01a62d,Apple,iPad,tablet,2018-11-09,0a9feeed-5e23-4979-99e6-b36b3d5190a8,89:27:8b:2f:89:0e,unassigned,noone
+201,e4c47b,Apple,iPad Mini,tablet,2019-05-16,19551b4d-bbe3-46af-86d7-badf67bff6ca,7f:58:e6:d2:33:7f,unassigned,noone
+202,aee310,Apple,iPad Mini,tablet,2018-08-04,35249488-332f-4674-9d55-069c9125d7e6,51:a5:b9:ad:cb:f2,unassigned,noone
+203,bfe055,Apple,iPad Mini,tablet,2017-10-24,5c11c998-8564-4893-bea6-d74a8e81ba21,1e:b0:77:54:d4:0e,unassigned,noone
+204,ac777d,Apple,iPad Mini,tablet,2018-04-06,d49dbcdb-566d-44e4-9174-cb102a74a14e,b6:66:c7:71:18:3c,unassigned,noone
+205,176cbd,Apple,iPad,tablet,2018-09-02,7fed9c6b-e4cb-4444-8c40-06df19301898,3e:2f:2c:cc:dc:74,unassigned,noone
+206,c2f36e,Apple,iPad,tablet,2020-01-28,81556400-3cf7-4c35-a432-0dc647a65fe5,b0:ea:c2:65:24:ed,unassigned,noone
+207,c33650,Apple,iPad Mini,tablet,2019-03-07,5341011e-7a35-4a51-97fe-d700dffc9244,ab:82:c7:cb:28:f4,unassigned,noone
+208,8eda05,Apple,iPad,tablet,2018-12-24,edb166cc-5197-4ff6-8b25-5eeb5447d6ba,f9:e1:8f:dc:e3:28,unassigned,noone
+209,a86813,Apple,iPad Mini,tablet,2019-04-15,af0cd477-e9d8-4727-8166-4d05b5835930,a9:41:28:7c:4e:71,unassigned,noone
+210,76c761,Apple,iPad Mini,tablet,2017-07-04,701f8a94-46c3-4824-b24a-c9685bbb2425,62:fd:b7:79:76:90,unassigned,noone
+211,546d05,Apple,iPad Mini,tablet,2017-06-09,7458f560-4be2-4b1a-b9cc-793463ff6f0d,b2:a7:8f:d4:da:b6,unassigned,noone
+212,9fa158,Apple,iPad,tablet,2019-12-28,068495b7-9dc5-4f87-bc8c-32f1e5519059,4a:7d:31:e5:7d:67,unassigned,noone
+213,b6875a,Apple,iPad,tablet,2019-04-23,7298274d-23bf-4e8d-9004-1d3365b152ad,0b:38:76:00:4c:de,unassigned,noone
+214,ad135e,Apple,iPad,tablet,2018-05-02,8ef9e19f-e58c-4684-8e8c-6818f7521658,a2:db:95:26:b7:a7,unassigned,noone
+215,0b0b76,Apple,iPad,tablet,2017-10-27,da2019b6-62e2-4c51-9426-a610ded5d674,b7:7c:3e:14:a6:cf,unassigned,noone
+216,24b1b9,Apple,iPad,tablet,2018-02-28,1e2f2507-029d-45f1-bb38-85b057ec0657,8b:b9:99:37:51:65,unassigned,noone
+217,d95311,Apple,iPad Mini,tablet,2020-01-10,1d8bd218-5159-4720-b32c-9ce3633b80a2,4f:ab:8f:52:e9:3d,unassigned,noone
+218,180c39,Apple,iPad,tablet,2020-01-30,1e6ef73a-cc50-4d53-acd2-c5c0fcc2c30c,69:d5:25:0a:54:99,unassigned,noone
+219,592c23,Apple,iPad,tablet,2019-11-09,fbead2a7-28e7-460c-b9c2-6db702a53a52,c7:7d:58:22:ed:3d,unassigned,noone
+220,d35ae0,Apple,iPad,tablet,2019-05-15,ae8a7fa2-26cf-4b79-af49-fe21f0e2c648,0c:df:05:95:d2:0b,unassigned,noone
+221,89fab7,Apple,iPad,tablet,2019-02-19,0e878b29-dba9-47e1-bcdd-d2228fec980b,f2:2b:b1:70:32:71,unassigned,noone
+222,94e2d0,Apple,iPad Mini,tablet,2019-03-27,e6ae4373-2bd9-4d88-a7c5-8a639d730dc5,ea:c3:d6:21:15:d7,unassigned,noone
+223,927617,Apple,iPad,tablet,2017-05-22,c67fd2aa-74f6-4215-af42-104f2c44c247,2b:41:72:5d:74:97,unassigned,noone
+224,525634,Apple,iPad Mini,tablet,2018-07-27,ef73223c-902d-4aec-9aa5-4fadb3b6fe04,3e:37:5a:da:ce:7b,unassigned,noone
+225,a91a4b,Apple,iPad Mini,tablet,2018-05-06,3acdf32f-e31f-42e5-8dbb-5db0b8ecdc34,b5:0f:55:fa:3d:83,unassigned,noone
+226,e4ef6e,Apple,iPad,tablet,2019-01-15,ad7053d5-747a-4a4b-bf0e-c518958ee0ce,c9:68:51:c9:b3:e2,unassigned,noone
+227,8a749a,Apple,iPad,tablet,2017-07-26,ba86cced-1665-4492-bc22-3804e291b98d,de:08:3a:7a:5a:c9,unassigned,noone
+228,73897a,Apple,iPad Mini,tablet,2017-03-15,95443dc9-e4d3-4e67-98ef-9b7bef243ab7,d4:47:85:72:83:34,unassigned,noone
+229,533a8c,Apple,iPad,tablet,2018-03-29,96ef0d5d-3511-4752-8a5f-7a4205649a74,7b:ad:53:1c:1f:ff,unassigned,noone
+230,3ecd8c,Apple,iPad Mini,tablet,2019-07-19,6a247416-9110-461f-ae82-d2f9c550f6fb,46:db:09:ae:9d:86,unassigned,noone
+231,e23998,Apple,iPad,tablet,2019-10-19,be8dbcbe-bc60-439c-a03b-c387b523ad7d,75:32:de:40:1b:ed,unassigned,noone
+232,43e117,Apple,iPad Mini,tablet,2019-01-19,1dd68bff-6a51-4833-9c49-7cd5695f0bcd,0d:5b:3e:83:9c:ac,unassigned,noone
+233,d75ab7,Apple,iPad,tablet,2018-09-14,82d703d2-8b6a-4287-8e6e-1fe742fc2e7a,2d:47:24:09:2d:b4,unassigned,noone
+234,c399ca,Apple,iPad Mini,tablet,2017-11-08,beb35748-bb5d-4ec5-92ed-31015299d699,84:1a:1c:50:5e:d2,unassigned,noone
+235,8d05eb,Apple,iPad Mini,tablet,2020-01-19,4893ba7a-f869-4f41-9d38-34912df0173b,a3:c3:d7:20:c5:a5,unassigned,noone
+236,942eb8,Apple,iPad,tablet,2018-08-30,deaebffb-790f-4a5a-92e6-0864c901b01d,e7:88:e2:0c:df:44,unassigned,noone
+237,c0cf2f,Apple,iPad Mini,tablet,2019-07-01,c99e8e1e-4ae4-4559-9bde-45ab8580faa8,77:71:b0:31:af:31,unassigned,noone
+238,aca726,Apple,iPad,tablet,2018-08-03,de5f7633-650f-4927-b647-94880405095d,75:d5:01:e5:52:72,unassigned,noone
+239,e8db58,Apple,iPad,tablet,2017-07-06,9da86a41-fe82-46ca-a411-a089878d3415,cd:d7:72:48:04:20,unassigned,noone
+240,14751a,Apple,iPad,tablet,2019-04-10,8d8662cc-271c-4621-bccd-b7072e6042b3,99:ec:35:91:db:e0,unassigned,noone
+241,eb3434,Apple,iPad Mini,tablet,2019-07-25,482ae450-ce43-46c6-b075-ef1ee5889fa0,b3:ee:43:f3:33:9b,unassigned,noone
+242,66328f,Apple,iPad Mini,tablet,2018-06-19,bb23a4fe-00e1-443b-afc1-95ce3bac0373,6d:23:6f:8f:f6:b7,unassigned,noone
+243,ce0158,Apple,iPad Mini,tablet,2019-08-11,ed0539d2-2cf5-401f-88c8-852bc4199476,65:10:27:6a:0c:b7,unassigned,noone
+244,945710,Apple,iPad Mini,tablet,2019-08-11,31896507-8763-4a97-8bb9-ed46c5222edd,f3:14:d8:24:45:46,unassigned,noone
+245,513ef8,Apple,iPad,tablet,2018-03-10,f21243a7-2a4c-457d-ad06-7b93684b9306,b5:d5:5d:97:c9:63,unassigned,noone
+246,c4f19b,Apple,iPad Mini,tablet,2018-11-14,4be607c0-f40d-4378-8afd-cc81f9dfb69d,0c:94:ef:1b:46:e3,unassigned,noone
+247,9fe1c1,Apple,iPad,tablet,2017-11-25,b37c151d-e4d9-4335-b6f5-8cb64c4c3b2c,db:15:87:31:7f:26,unassigned,noone
+248,a7b338,Apple,iPad,tablet,2018-01-13,ad06d986-975c-4b18-853a-4fd48375e02b,45:fd:c3:3c:f5:25,unassigned,noone
+249,851516,Apple,iPad,tablet,2019-11-08,37213b2c-4376-4c31-aabb-39c47bb2c76c,20:09:33:cb:c2:b0,unassigned,noone
+250,74290b,Apple,iPad,tablet,2017-04-10,152e9653-db44-41fe-814d-da38c793ed34,96:7a:11:67:7b:d6,unassigned,noone
+251,fea1fd,Apple,iPad Mini,tablet,2018-08-18,c370a997-fd39-4df2-a84d-25a3d9b2fb5c,5d:4a:85:5e:00:70,unassigned,noone
+252,3fef52,Apple,iPad,tablet,2017-05-02,ac333474-9b2c-4cd3-9260-39f36f002419,8b:3d:cd:8c:59:02,unassigned,noone
+253,fee32a,Apple,iPad,tablet,2018-05-07,f39767d0-891c-4f7d-9d3c-bc401de06dd3,27:6f:8c:5a:c9:98,unassigned,noone
+254,bb4ff7,Apple,iPad Mini,tablet,2019-03-19,9af3921a-2018-466d-a7ad-af3a97a8468f,85:b5:f7:18:72:d2,unassigned,noone
+255,6535ee,Apple,iPad,tablet,2017-08-26,e43d9e04-d999-489d-a260-916fcf017c26,a5:3f:0b:87:c5:13,unassigned,noone
+256,9ec9a4,Apple,iPad,tablet,2019-11-12,dd409008-eed4-4eb7-b958-e476408dd1c3,4c:8e:bd:4d:cb:d2,unassigned,noone
+257,1c62a6,Apple,iPad Mini,tablet,2017-12-09,54cc4b3b-eb1e-4d1b-a1a4-12c9f9d0a126,b3:60:49:53:69:ea,unassigned,noone
+258,18e115,Apple,iPad,tablet,2018-08-13,8192f2bc-764f-44a2-b65e-bb97a6ad945c,36:85:68:73:35:5d,unassigned,noone
+259,8d5a18,Apple,iPad,tablet,2019-02-14,0bfa8ec6-dd2c-4f96-b965-6c43f609d865,73:f3:01:ba:3f:8a,unassigned,noone
+260,a04b57,Apple,iPad Mini,tablet,2017-10-11,b9fdac87-a505-41a3-92cc-18a31b94001a,e0:05:dd:dc:76:bf,unassigned,noone
+261,add90e,Apple,iPad,tablet,2018-07-25,4c10b0a6-5a43-4bef-a9bb-1603b11f03d3,cb:21:e0:c7:21:2f,unassigned,noone
+262,be529f,Apple,iPad,tablet,2017-07-13,4492830e-5ec0-4ef0-a04e-8064c01ad5e9,24:56:d5:26:73:04,unassigned,noone
+263,6e99d8,Apple,iPad Mini,tablet,2019-08-22,ad468fe5-e814-415b-bba5-4cd5b59fef86,b3:d2:e8:9d:c9:0b,unassigned,noone
+264,bf9ad7,Apple,iPad,tablet,2017-07-31,9413976c-425c-41cd-88c4-15a5821a16cc,f0:97:f8:b0:01:b8,unassigned,noone
+265,791dc3,Apple,iPad,tablet,2017-06-27,578f58c7-e5ff-4356-848a-80dcad452c09,a4:95:3f:a5:68:0b,unassigned,noone
+266,918b9c,Apple,iPad,tablet,2019-01-30,5d71ca4a-94e4-4f37-97b5-6cbb04e92bba,54:0a:35:5c:8c:73,unassigned,noone
+267,12febc,Apple,iPad,tablet,2019-05-06,808f8f23-c43d-4e57-9672-ebb346c40002,37:0e:7c:3c:06:d5,unassigned,noone
+268,c2f463,Apple,iPad Mini,tablet,2017-07-11,c4cd547b-413a-43a9-b51d-b9cc25742cd7,a0:f2:94:c6:a4:bd,unassigned,noone
+269,d852ac,Apple,iPad Mini,tablet,2019-07-16,74a24ebf-d37f-4743-a93c-30795f1d236f,c9:c3:7c:dd:c2:3b,unassigned,noone
+270,f35515,Apple,iPad Mini,tablet,2019-07-30,a9d53f49-98dc-4b95-8594-c5dd1da0235d,e3:83:33:e9:9b:9a,unassigned,noone
+271,9a5334,Apple,iPad Mini,tablet,2019-07-24,4f0fad6a-f68a-46dc-a8cc-5dad317d670e,82:41:f2:4a:2c:88,unassigned,noone
+272,d83674,Apple,iPad,tablet,2017-06-02,17503147-70a3-4b5d-8c5e-1429822792c8,c3:ce:37:d3:a2:35,unassigned,noone
+273,c44203,Apple,iPad,tablet,2018-11-13,2b81a7d4-4f12-4e21-8f0c-965bf5ac9d89,85:ad:d9:aa:5b:1c,unassigned,noone
+274,aa09b1,Apple,iPad Mini,tablet,2017-05-04,c79b33fb-a370-40e6-9cc8-12f7de47d94d,da:ff:a1:02:ef:b0,unassigned,noone
+275,a47284,Apple,iPad Mini,tablet,2019-10-21,a17ce799-24ca-43ed-85e6-59ae2eb1cb29,1d:c4:ad:81:5f:cd,unassigned,noone
+276,09470d,Apple,iPad Mini,tablet,2018-08-16,9c1fe7fb-7db1-4e68-bce0-119e164264c1,b2:20:04:2c:7c:2d,unassigned,noone
+277,677b80,Apple,iPad,tablet,2019-11-14,2701de8d-434d-43f8-9054-798e0dccae66,96:dd:c7:7d:18:6c,unassigned,noone
+278,f96fc4,Apple,iPad Mini,tablet,2019-09-19,59c0c9d0-ea5f-40f0-90d2-89692ad8b733,b8:35:2a:ec:61:ad,unassigned,noone
+279,891894,Apple,iPad,tablet,2020-01-28,b1cb7335-d7a6-4946-97e7-26b2fec539d0,06:cd:86:f5:aa:8f,unassigned,noone
+280,795c6b,Apple,iPad Mini,tablet,2017-06-03,e5984ee0-7690-48af-9e80-2e059fe4c21f,95:09:54:d4:c0:81,unassigned,noone
+281,b084a7,Apple,iPad,tablet,2019-10-12,97d67f2d-4877-46d3-8e8a-d78a033a82fa,a7:25:77:7e:3d:ef,unassigned,noone
+282,66eab0,Apple,iPad Mini,tablet,2019-09-03,be5ebc96-0f9c-43ac-b60b-8050b4638075,d6:dc:7e:7f:b9:c3,unassigned,noone
+283,8b56e3,Apple,iPad,tablet,2019-07-30,44ad6d82-72fd-4966-ac6a-4d233ddef6c1,c4:56:b2:77:42:19,unassigned,noone
+284,b0ad11,Apple,iPad Mini,tablet,2017-06-12,b2f54efb-63fe-43d2-bb52-9c740b717d24,96:3b:4d:b6:4d:ed,unassigned,noone
+285,836c6d,Apple,iPad Mini,tablet,2017-09-24,d9ff1709-9c80-4796-9697-0108db6d14a4,c7:54:82:07:e1:c7,unassigned,noone
+286,5c9e9b,Apple,iPad,tablet,2019-10-20,d304459d-8ca6-4673-81ba-0c0f8d38ccbf,f5:fe:4e:5e:ae:77,unassigned,noone
+287,33d42a,Apple,iPad,tablet,2019-01-24,d146e5f0-5d42-4278-9e00-176c78709629,80:a8:e0:18:2a:ce,unassigned,noone
+288,299731,Apple,iPad,tablet,2020-02-28,321eec73-f5a4-4486-9d63-7e8d2f325784,27:db:aa:5b:cf:24,unassigned,noone
+289,4fa32a,Apple,iPad Mini,tablet,2019-03-05,e518df31-6dfe-47e8-b524-d6765e05aac6,b3:93:f5:64:4c:53,unassigned,noone
+290,6b2e3c,Apple,iPad Mini,tablet,2018-11-28,d31575f8-d660-4d09-a397-6bba83379713,4c:cc:f6:36:1b:f3,unassigned,noone
+291,34264d,Apple,iPad Mini,tablet,2019-01-06,66b87016-6950-47e9-9b53-df73d2186ef3,8c:4d:5f:34:bb:08,unassigned,noone
+292,3c47df,Apple,iPad Mini,tablet,2018-10-31,0cdd3476-f7f4-4a37-8f5b-3aea8a90a3b7,ea:77:64:b1:7b:a2,unassigned,noone
+293,7b5ad2,Apple,iPad,tablet,2018-05-17,c482ab9e-06e3-4754-bd43-0cc99ff102b6,4e:d1:6d:ee:e9:c6,unassigned,noone
+294,89bd41,Apple,iPad,tablet,2019-07-10,75f834df-b7ea-42b6-b0b4-a5665cc8720f,37:6b:51:08:62:4d,unassigned,noone
+295,f2a6e3,Apple,iPad Mini,tablet,2018-04-04,ce1d2750-9595-4d96-8f39-9b0ce53db4e6,a5:c9:ca:4d:df:7f,unassigned,noone
+296,733996,Apple,iPad,tablet,2020-02-07,3d422f3e-d7b6-4d1b-98b7-1ac0aa87e9f1,2b:de:19:34:88:27,unassigned,noone
+297,dc6eb8,Apple,iPad Mini,tablet,2017-05-21,6f171dc3-e10f-4b56-926c-8f7e5674b693,ce:d8:c3:1e:a4:7b,unassigned,noone
+298,ad0689,Apple,iPad,tablet,2019-07-15,4bd12596-c42c-49f9-ac4e-191df2ad6a33,39:ab:cd:ee:54:d2,unassigned,noone
+299,fa5dd8,Apple,iPad,tablet,2018-07-05,bc2d2c9d-8687-4984-a3c8-23e5923257b0,b6:34:26:d4:9c:ff,unassigned,noone
+300,bebbc0,Apple,iPad,tablet,2017-03-09,5590a788-ba1e-4ba5-9834-cb51a9dd72b8,0d:97:da:3e:29:4d,unassigned,noone
+301,44eab1,Apple,iPad,tablet,2019-12-12,3a4f56a4-f15b-48c0-8f99-fc82da2ef44b,d6:bc:da:0d:8c:e1,unassigned,noone
+302,2cfde0,Apple,iPad,tablet,2020-03-06,09c49a71-a882-46b7-b7cd-4f31816b0635,1b:d9:30:a1:1b:61,unassigned,noone
+303,33cc97,Apple,iPad Mini,tablet,2018-05-25,f16f14d6-2274-4b7f-bcda-b24d1474305c,9e:bb:cb:65:53:81,unassigned,noone
+304,140629,Apple,iPad Mini,tablet,2019-12-29,b2438a37-2fd3-42ff-bc55-939ddce4a7e2,21:20:86:73:b6:a5,unassigned,noone
+305,2d08a2,Apple,iPad,tablet,2018-09-19,5e914340-cdc8-487b-afd9-f9cb111018f0,53:eb:9d:ad:8f:21,unassigned,noone
+306,906efd,Apple,iPad Mini,tablet,2017-06-13,9e460a1a-74d3-474f-aaac-29b7127514c7,9b:ad:c3:f8:54:29,unassigned,noone
+307,94774c,Apple,iPad Mini,tablet,2017-06-20,672889ce-b673-4f73-ad45-2ee0fdc46d7b,11:98:2f:ea:d7:97,unassigned,noone
+308,373ee9,Apple,iPad,tablet,2017-08-22,e2e975d1-117d-404e-8289-1c585cdcff78,81:f5:74:74:99:90,unassigned,noone
+309,321420,Apple,iPad,tablet,2019-11-10,877ef9e8-729a-4f41-b918-1ddad9b4059c,8b:e3:64:d2:cd:92,unassigned,noone
+310,de9144,Apple,iPad,tablet,2019-08-11,10446ab2-3837-45e7-bf23-2a3f8dade9e5,ef:21:55:61:19:5f,unassigned,noone
+311,d05433,Apple,iPad Mini,tablet,2017-05-14,920c0f09-56f2-4299-9a33-5fcef5baee62,14:ca:51:90:f4:36,unassigned,noone
+312,bb7037,Apple,iPad,tablet,2017-04-10,dd01c7d0-ce08-4dbf-8d5f-0f37e969c495,b9:af:46:4f:d4:90,unassigned,noone
+313,ed5499,Apple,iPad,tablet,2017-06-05,49391457-ba2b-49d2-8aac-30c3bfb9b0f8,e2:18:b6:2d:a8:91,unassigned,noone
+314,e19ab3,Apple,iPad Mini,tablet,2020-01-09,a22cc5f3-120b-439f-b1c3-91426fb1922e,94:4d:56:14:93:9c,unassigned,noone
+315,c42f59,Apple,iPad,tablet,2019-12-06,c1c54f06-ff94-4ea2-9c75-ad92bc9ec3b8,2c:f5:21:9b:3d:43,unassigned,noone
+316,8eb043,Apple,iPad,tablet,2017-07-02,c31eb2d2-a565-4e02-b7eb-cf26465df032,22:d6:90:c3:3b:d2,unassigned,noone
+317,fdeb1d,Apple,iPad,tablet,2017-04-16,8e3368e1-f1d4-4168-8266-591a000ea55d,30:f1:8f:4f:df:8b,unassigned,noone
+318,e610d1,Apple,iPad Mini,tablet,2018-05-12,6151d77c-332a-4645-b6b8-1464d32a07bc,77:50:ba:c9:c8:69,unassigned,noone
+319,01b57b,Apple,iPad,tablet,2020-02-28,dfa86890-8f33-480f-bfc1-087bfea7d7af,ee:e8:1d:80:43:77,unassigned,noone
+320,4e77a7,Apple,iPad Mini,tablet,2017-04-28,84651a43-3ec4-4ec8-a612-f90b8ef2f6f9,f3:b2:00:cd:7a:f2,unassigned,noone
+321,62d22d,Apple,iPad,tablet,2017-04-02,7f1ce2ae-818e-4620-9395-d05cd1047356,3d:c0:bb:cc:6e:c9,unassigned,noone
+322,736ab5,Apple,iPad Mini,tablet,2017-04-12,46ca04fd-e476-4ce8-af57-14387daad208,fe:2c:d4:dc:4d:b3,unassigned,noone
+323,7e2e94,Apple,iPad,tablet,2018-09-04,296dfc7a-02fc-4c3b-9fe0-2f8fe0bff7ab,6b:5c:b2:3f:7e:5f,unassigned,noone
+324,878a9c,Apple,iPad Mini,tablet,2019-05-24,d5805b85-8f2e-43d5-8d21-f5eef17fa77b,53:54:42:4f:0f:b7,unassigned,noone
+325,d2a7b5,Apple,iPad Mini,tablet,2019-05-11,2721ced9-9f19-4586-9a47-26e7b6fd6bc6,7f:e9:8a:62:1c:be,unassigned,noone
+326,43dc44,Apple,iPad Mini,tablet,2018-12-28,ba90005b-4c88-43be-a707-039da1bddff7,28:61:d9:06:22:e0,unassigned,noone
+327,1e8818,Apple,iPad Mini,tablet,2019-12-22,6069639f-e854-4ce8-a268-b0b96ad126ac,af:49:25:5b:10:c9,unassigned,noone
+328,95d0b8,Apple,iPad Mini,tablet,2018-08-16,5dd3c51a-aafb-4339-bba5-4504fb5577c6,ad:a7:68:4a:2b:2f,unassigned,noone
+329,7ed872,Apple,iPad Mini,tablet,2019-10-22,16d6e6ce-90c7-41cb-9840-94edbc00630e,98:c5:cf:c6:35:5f,unassigned,noone
+330,792647,Apple,iPad Mini,tablet,2019-03-10,ac908903-7c3c-4418-82ad-35ae2c114893,40:cf:98:6a:3e:6a,unassigned,noone
+331,daca1c,Apple,iPad,tablet,2018-11-30,addc9844-57ba-4aea-9421-820a17fc00de,df:ca:3b:50:8d:95,unassigned,noone
+332,4a26e7,Apple,iPad Mini,tablet,2017-07-26,186b7515-43ed-462d-978f-9717b700e4eb,24:3b:06:d0:9e:74,unassigned,noone
+333,9df247,Apple,iPad Mini,tablet,2018-09-19,e61b76b5-ba32-4f79-8b43-44d41822f0f4,70:d8:35:e4:4b:7c,unassigned,noone
+334,5acdff,Apple,iPad,tablet,2019-04-06,4e487aeb-d1d1-4870-8693-0a1880dec2c9,ee:ac:f0:25:30:18,unassigned,noone
+335,7c7748,Apple,iPad Mini,tablet,2018-05-25,b7d69fbe-0582-4a78-941f-307962e8c43d,d0:06:6a:7f:a9:c9,unassigned,noone
+336,b06149,Apple,iPad,tablet,2019-06-20,668a983c-1e99-4f13-9d4d-255e42ff8a89,52:a7:9a:56:70:6f,unassigned,noone
+337,5d1670,Apple,iPad,tablet,2018-11-09,2d6d7593-cc96-4323-b9fe-02dd9b26fdb6,06:2a:23:5f:66:c7,unassigned,noone
+338,41f048,Apple,iPad,tablet,2017-07-15,1830273b-ca30-4ff1-816f-eee164a03007,5c:2c:b1:88:f4:e0,unassigned,noone
+339,40385d,Apple,iPad,tablet,2019-10-11,b27fddec-0ed4-40a5-bae4-6637aa15fac1,12:c4:0e:53:8b:87,unassigned,noone
+340,415632,Apple,iPad Mini,tablet,2017-11-12,8ea7fb6f-b6de-41f0-b6eb-fd4ab142a318,be:12:2c:65:7e:a6,unassigned,noone
+341,d7e595,Apple,iPad Mini,tablet,2017-11-05,d8f058c6-06e1-432c-b00d-bb58c87a4f3c,78:ee:43:fb:e2:41,unassigned,noone
+342,d4ee87,Apple,iPad,tablet,2018-03-05,ea128463-a250-4ae0-a592-98c4e7209f05,bc:b9:95:98:94:77,unassigned,noone
+343,f21116,Apple,iPad Mini,tablet,2017-04-22,47c55c41-a2c4-42c8-84d9-ea647cd735a2,fd:24:61:79:01:70,unassigned,noone
+344,3bc1bb,Apple,iPad Mini,tablet,2018-03-14,e6377f08-7fbc-435e-9fd4-e18245453f53,72:6c:4b:1f:ed:0d,unassigned,noone
+345,e27d80,Apple,iPad,tablet,2019-06-18,ac32a4a2-eb5f-434a-9f82-0aa308f42354,3d:a3:38:5c:83:2e,unassigned,noone
+346,6ee5d4,Apple,iPad,tablet,2019-07-02,8720df2c-923a-4288-8650-6bc7d7dd77be,3b:f9:e6:05:5c:7e,unassigned,noone
+347,ffe17e,Apple,iPad Mini,tablet,2017-04-05,23884023-b608-4285-a82a-83644fdd0050,b3:3f:c2:8e:f4:ee,unassigned,noone
+348,32d129,Apple,iPad,tablet,2018-04-15,68b66298-97df-4f72-946e-eb827633e26f,d3:7e:c0:f7:01:cf,unassigned,noone
+349,06d080,Apple,iPad Mini,tablet,2017-05-01,87a71fd9-5d6f-4c7e-96b0-10abe29fec6f,1d:67:d2:e9:05:fc,unassigned,noone
+350,c6ae08,Apple,iPad Mini,tablet,2018-02-18,d78951d9-71a5-43e4-9399-6de4cedc2be1,66:73:1d:22:f5:ef,unassigned,noone
+351,f506c3,Apple,iPad Mini,tablet,2019-07-18,3a10dac4-db3a-40fb-8154-fb126dbb026f,bd:37:a4:ab:30:c5,unassigned,noone
+352,3fad14,Apple,iPad,tablet,2017-12-07,4feee357-dd49-4e85-84ec-36906d876b50,9c:9e:20:cc:9a:93,unassigned,noone
+353,12a0aa,Apple,iPad Mini,tablet,2019-09-16,3e69a630-0d71-4b69-9e2e-2f4c3d3169a3,96:10:55:3e:ac:40,unassigned,noone
+354,3f002b,Apple,iPad,tablet,2018-04-04,8694bfaa-c550-4828-ad7a-3448318295e4,e2:bd:b8:2c:98:a6,unassigned,noone
+355,5c26bd,Apple,iPad Mini,tablet,2017-12-15,9cd6d527-e685-4a46-96e2-007caf1ac443,da:1f:54:75:e4:15,unassigned,noone
+356,23ba1e,Apple,iPad Mini,tablet,2018-12-08,c123db3a-79c4-400c-91bc-54b2594a8bcd,3f:48:1d:b6:6c:c8,unassigned,noone
+357,ce9fb8,Apple,iPad,tablet,2019-11-08,3fc60721-ef0f-455c-a346-221b674c3f86,71:b3:f0:69:cd:ec,unassigned,noone
+358,90da23,Apple,iPad Mini,tablet,2017-05-24,6f2d454b-9b4d-41a2-9680-a307e8358db9,bb:4f:d6:f8:07:7b,unassigned,noone
+359,ef6baa,Apple,iPad,tablet,2018-10-02,bbd1000e-892b-4943-9d5a-a59d3b64fc6e,f1:7a:8f:7a:c8:8f,unassigned,noone
+360,467429,Apple,iPad Mini,tablet,2017-07-01,76868bd8-0b26-4eb4-bb9e-d46e5d2fc480,14:97:f9:20:3e:65,unassigned,noone
+361,06cb12,Apple,iPad Mini,tablet,2017-09-16,6dd128d5-d947-49cf-991e-45a6b6956567,6e:25:57:d3:03:84,unassigned,noone
+362,c10984,Apple,iPad Mini,tablet,2017-11-18,7e1a436c-fabf-432f-a866-15073e4ef0b1,63:33:b3:a0:e9:94,unassigned,noone
+363,b1ee9a,Apple,iPad Mini,tablet,2018-10-06,8f09a27c-b250-43b3-8d95-780c36245e16,8d:ff:6a:4b:50:c5,unassigned,noone
+364,834a1e,Apple,iPad,tablet,2018-11-02,83506788-81f4-4df6-8beb-c31738aebe8e,a5:3a:48:5c:1c:83,unassigned,noone
+365,91072e,Apple,iPad Mini,tablet,2019-09-02,272652fd-d600-41b8-a5fa-1b083ebf8903,d1:6b:8c:3d:d9:d3,unassigned,noone
+366,8bf779,Apple,iPad Mini,tablet,2019-03-23,b37a87ae-c342-464f-bc7f-c1d913a2a1b9,b0:de:c9:62:cc:a8,unassigned,noone
+367,af8f2a,Apple,iPad,tablet,2019-12-10,90f4e7b8-9ddd-4f4c-9fbb-23b584cf3472,c2:30:49:3b:ce:0a,unassigned,noone
+368,93f437,Apple,iPad Mini,tablet,2017-03-25,24d6fed5-8dd1-4e34-9fbf-d1e2ede82188,39:0f:6a:f6:39:14,unassigned,noone
+369,07ab12,Apple,iPad,tablet,2019-04-29,fb7f16d8-07d0-4d3c-b0cb-91cc55ff82f8,b4:f5:3c:79:19:fc,unassigned,noone
+370,ff13ad,Apple,iPad,tablet,2018-12-09,930c3a63-a76c-41e9-bc16-d77c1cf9743a,5e:67:0c:59:11:88,unassigned,noone
+371,a5bb6a,Apple,iPad,tablet,2018-12-09,e3e9fc66-b333-4010-bc59-2b58726fda13,eb:ab:66:03:4e:cd,unassigned,noone
+372,2d9847,Apple,iPad Mini,tablet,2019-09-21,6a97c46f-b6ea-4926-a10e-a79f8a0781a7,7b:a3:02:80:6d:47,unassigned,noone
+373,5c7ab2,Apple,iPad Mini,tablet,2017-10-17,d697b5d2-2622-41a5-8e05-d6ab5033406f,f2:98:0b:e4:76:d7,unassigned,noone
+374,969896,Apple,iPad Mini,tablet,2018-09-20,c3a76b7c-a39c-44dd-aed9-cfc32de20659,a3:e8:06:ac:7f:3f,unassigned,noone
+375,e78c13,Apple,iPad Mini,tablet,2017-05-30,2a9e99ec-7469-4479-8243-7d02dd161ff0,c3:63:df:57:98:aa,unassigned,noone
+376,f9a1ed,Apple,iPad,tablet,2019-02-27,55c99166-14df-42a7-b6ef-93d4eb52f1fc,e8:af:24:89:14:aa,unassigned,noone
+377,b7b75c,Apple,iPad,tablet,2018-04-17,663dc932-2176-48a3-b35a-0a6ffea324fa,4f:c7:6e:9e:92:b1,unassigned,noone
+378,34cf3a,Apple,iPad Mini,tablet,2017-04-01,7d4ecf58-aa6c-441a-940a-77d1d3e2eb24,82:d2:52:0a:ba:f1,unassigned,noone
+379,44055d,Apple,iPad Mini,tablet,2019-06-17,ef1bf4fb-6d10-4489-9e1e-28ffcad1bcd6,83:20:8d:8f:ed:b1,unassigned,noone
+380,670367,Apple,iPad,tablet,2020-01-10,26bb2b1c-0cc9-4595-8c9b-65237a42af2d,b8:4a:50:21:9a:9b,unassigned,noone
+381,b98cdf,Apple,iPad,tablet,2018-04-29,beb63494-64d1-4667-9773-0c678cb07e66,ec:7d:08:2f:8f:f8,unassigned,noone
+382,c985a9,Apple,iPad Mini,tablet,2019-08-06,94ec0e05-1405-479a-b5ee-261fade1a8e0,0d:59:3b:9c:3a:87,unassigned,noone
+383,3bd6b7,Apple,iPad Mini,tablet,2017-04-25,7f4cecff-ce0b-437a-90b6-3e1dbc0381c1,ee:f7:fe:c9:19:d5,unassigned,noone
+384,5b47f9,Apple,iPad Mini,tablet,2019-04-26,0398a9e7-1a1d-4d6c-80a7-94ff7df1356d,b4:38:57:92:fb:7d,unassigned,noone
+385,c667aa,Apple,iPad Mini,tablet,2019-02-27,4ae246d6-714e-4aba-af8c-045b4628c9a0,06:99:9f:19:e5:bd,unassigned,noone
+386,6233ed,Apple,iPad,tablet,2018-05-05,4b99d663-a67e-458a-9d24-923ae7672a8a,3a:7b:bc:97:7a:7f,unassigned,noone
+387,64aa76,Apple,iPad Mini,tablet,2018-10-16,eb439cec-3330-486c-a558-25449bbbe8cb,9c:ab:df:37:d2:65,unassigned,noone
+388,93b110,Apple,iPad Mini,tablet,2019-05-03,09259d04-472d-46b6-b154-47e45fd03ec1,1e:eb:e6:2d:97:4f,unassigned,noone
+389,71ec43,Apple,iPad Mini,tablet,2018-11-12,55522c0b-8973-4371-ae18-1279f8939615,6a:36:ca:c8:65:db,unassigned,noone
+390,8ce712,Apple,iPad,tablet,2018-11-22,3f50eba5-d51f-485b-85e7-1c8b350c1fe3,43:cc:da:17:b7:d8,unassigned,noone
+391,134151,Apple,iPad Mini,tablet,2017-12-25,af87a62e-c1ea-43d4-9dad-1121e54ee870,08:59:37:05:6a:5b,unassigned,noone
+392,79a970,Apple,iPad Mini,tablet,2018-02-01,76b88fd1-1e38-45ee-8e52-a24e4387e439,3b:ef:8a:d9:d3:aa,unassigned,noone
+393,93128b,Apple,iPad,tablet,2019-04-26,bd453843-b5f2-4b34-919d-473b8a19d286,27:de:a9:90:8c:64,unassigned,noone
+394,cba24b,Apple,iPad Mini,tablet,2017-06-09,e1fb33f9-bd98-48ef-b970-9f400743d551,46:e3:b6:44:73:fd,unassigned,noone
+395,f45b45,Apple,iPad Mini,tablet,2019-09-06,c753f1a3-764c-4d7e-a478-589a383c074f,4b:e3:4e:f3:88:ed,unassigned,noone
+396,6bb76c,Apple,iPad,tablet,2019-03-25,3ca3d095-bfb1-47b9-a96c-d7783f9e133c,b7:17:e7:12:a8:b8,unassigned,noone
+397,601274,Apple,iPad,tablet,2017-05-29,1a827bab-da31-495c-8d5d-8a7cba332a5c,92:89:ea:bc:25:0b,unassigned,noone
+398,b02463,Apple,iPad,tablet,2018-06-09,98efdabf-e626-4781-a90b-ef1dc1232c36,e6:4c:f5:e8:f7:98,unassigned,noone
+399,745f82,Apple,iPad Mini,tablet,2018-04-22,6bfbf84e-3e60-4d49-8530-4377fedda0b0,98:e9:38:f4:ff:61,unassigned,noone
+,asset_tag,make,model,dev_type,purchase_date,serial_number,mac_addr,status,usage
+0,7b85da,Dell,Latitude 3500,tablet,2017-05-26,19c1790a-31b0-4638-8ee7-e535ff954717,d8:eb:74:0a:73:02,unassigned,noone

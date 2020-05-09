@@ -1,4 +1,5 @@
 from generate_elements import generate_schools
+from generate_elements import generate_devices
 from faker import Faker
 
 import argparse
@@ -31,3 +32,5 @@ print("staff", args.staff)
 city = "Helenville"
 
 generate_schools(args.schools, "High School", city)
+generate_devices(args.students, "ipad")
+generate_devices(args.teachers, "laptop")
